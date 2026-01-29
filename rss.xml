@@ -9,24 +9,38 @@
     <ttl>60</ttl>
     <language>vi</language>
     <copyright>All rights reserved</copyright>
-    <webMaster>sgppodcast2020@gmail.com (Your Name)</webMaster>
+    <webMaster>sgppodcast2020@gmail.com (Tech News Vietnam)</webMaster>
     <description>Tin công nghệ hàng ngày được tạo tự động từ NotebookLM</description>
     <itunes:subtitle>Tin công nghệ hàng ngày từ NotebookLM</itunes:subtitle>
     <itunes:owner>
-      <itunes:name>Your Name</itunes:name>
+      <itunes:name>Tech News Vietnam</itunes:name>
       <itunes:email>sgppodcast2020@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:author>Your Name</itunes:author>
+    <itunes:author>Tech News Vietnam</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://via.placeholder.com/1400x1400.png"/>
+    <itunes:image href="https://i1.sndcdn.com/avatars-RYpV72Rqu8EVDuAU-G89qwQ-original.jpg"/>
     <image>
-      <url>https://via.placeholder.com/1400x1400.png</url>
+      <url>https://i1.sndcdn.com/avatars-RYpV72Rqu8EVDuAU-G89qwQ-original.jpg</url>
       <title>Tech News Vietnam</title>
       <link>https://github.com/oklahomacitycloud/podcast</link>
     </image>
     <itunes:category text="Technology"/>
     
-    <!-- Episodes will be added here automatically -->
+    <!-- Sample Episode 001: Starlink -->
+    <item>
+      <guid isPermaLink="false">episode-001-starlink-2026</guid>
+      <title>Starlink Hạ Quỹ Đạo: Giải Pháp An Toàn Và Tăng Tốc</title>
+      <pubDate>Thu, 29 Jan 2026 17:00:00 +0700</pubDate>
+      <link>https://github.com/oklahomacitycloud/podcast</link>
+      <itunes:duration>00:02:23</itunes:duration>
+      <itunes:author>NotebookLM Auto</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>SpaceX đang hạ thấp 4.400 vệ tinh xuống 480km để giảm thiểu rác vũ trụ, tránh va chạm và cải thiện hiệu suất mạng internet.</itunes:summary>
+      <itunes:subtitle>SpaceX đang hạ thấp 4.400 vệ tinh xuống 480km…</itunes:subtitle>
+      <description>SpaceX đang hạ thấp 4.400 vệ tinh xuống 480km để giảm thiểu rác vũ trụ, tránh va chạm và cải thiện hiệu suất mạng internet.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1031414761-sgp2020-763453828-loai-kien-nhay-o-an-do-co-the-dao-nguoc-su-phat-trien-nao.mp3" length="572589"/>
+      <itunes:image href="https://i1.sndcdn.com/avatars-RYpV72Rqu8EVDuAU-G89qwQ-original.jpg"/>
+    </item>
     
   </channel>
 </rss>
