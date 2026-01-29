@@ -1,23 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech News Vietnam</title>
+    <atom:link href="https://raw.githubusercontent.com/oklahomacitycloud/podcast/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Tech News Vietnam - NotebookLM Podcast</title>
     <link>https://github.com/oklahomacitycloud/podcast</link>
-    <description>Tin công nghệ hàng ngày từ NotebookLM</description>
+    <pubDate>Thu, 29 Jan 2026 21:00:00 +0700</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 21:00:00 +0700</lastBuildDate>
+    <ttl>60</ttl>
     <language>vi</language>
-    
-    <managingEditor>sgppodcast2020@gmail.com (Your Name)</managingEditor>
+    <copyright>All rights reserved</copyright>
     <webMaster>sgppodcast2020@gmail.com (Your Name)</webMaster>
-    
-    <itunes:author>SGP</itunes:author>
-    <itunes:email>sgppodcast2020@gmail.com</itunes:email>
+    <description>Tin công nghệ hàng ngày được tạo tự động từ NotebookLM</description>
+    <itunes:subtitle>Tin công nghệ hàng ngày từ NotebookLM</itunes:subtitle>
     <itunes:owner>
       <itunes:name>Your Name</itunes:name>
       <itunes:email>sgppodcast2020@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://via.placeholder.com/1400x1400.png"/>
+    <image>
+      <url>https://via.placeholder.com/1400x1400.png</url>
+      <title>Tech News Vietnam</title>
+      <link>https://github.com/oklahomacitycloud/podcast</link>
+    </image>
     <itunes:category text="Technology"/>
-    <itunes:explicit>false</itunes:explicit>
+    
+    <!-- Episodes will be added here automatically -->
     
   </channel>
 </rss>
