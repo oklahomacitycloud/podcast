@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech News Vietnam</title>
+    <link>https://github.com/oklahomacitycloud/podcast</link>
+    <description>Tin công nghệ hàng ngày từ NotebookLM</description>
+    <language>vi</language>
+    
+    <managingEditor>your-email@example.com (Your Name)</managingEditor>
+    <webMaster>your-email@example.com (Your Name)</webMaster>
+    
+    <itunes:author>Your Name</itunes:author>
+    <itunes:email>your-email@example.com</itunes:email>
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>your-email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://via.placeholder.com/1400x1400.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    
+  </channel>
+</rss>
