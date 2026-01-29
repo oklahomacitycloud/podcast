@@ -6,14 +6,14 @@
     <description>Tin công nghệ hàng ngày từ NotebookLM</description>
     <language>vi</language>
     
-    <managingEditor>your-email@example.com (Your Name)</managingEditor>
-    <webMaster>your-email@example.com (Your Name)</webMaster>
+    <managingEditor>sgppodcast2020@gmail.com (Your Name)</managingEditor>
+    <webMaster>sgppodcast2020@gmail.com (Your Name)</webMaster>
     
-    <itunes:author>Your Name</itunes:author>
-    <itunes:email>your-email@example.com</itunes:email>
+    <itunes:author>SGP</itunes:author>
+    <itunes:email>sgppodcast2020@gmail.com</itunes:email>
     <itunes:owner>
       <itunes:name>Your Name</itunes:name>
-      <itunes:email>your-email@example.com</itunes:email>
+      <itunes:email>sgppodcast2020@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://via.placeholder.com/1400x1400.png"/>
     <itunes:category text="Technology"/>
